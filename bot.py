@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Telegram API credentials (my.telegram.org aur @BotFather se prapt karein)
-API_ID = 12345678          # Apna API ID dalein (int)
-API_HASH = "YOUR_API_HASH"  # Apna API Hash dalein
-BOT_TOKEN = "YOUR_BOT_TOKEN"# Apna Bot Token dalein
+API_ID = 35304614          # Apna API ID dalein (int)
+API_HASH = "5607bebe7e0fe210300e14549ac85b92"  # Apna API Hash dalein
+BOT_TOKEN = "8834143519:AAGo2LFOAwG3mApLAEKC7ZAeRqkxxKYTA_M"# Apna Bot Token dalein
 
 app = Client("dm_button_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
